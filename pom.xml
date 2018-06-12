@@ -4,6 +4,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.rick</groupId>
   <artifactId>gxm.server.textlookup.api</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.0.1</version>
   <name>GxM Parent POM file For All GXM Server REST Maven Projects</name>
 </project>
