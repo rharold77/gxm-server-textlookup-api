@@ -6,4 +6,16 @@
   <artifactId>gxm.server.textlookup.api</artifactId>
   <version>1.0.4</version>
   <name>GxM Parent POM file For All GXM Server REST Maven Projects</name>
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>com.bosch.gxm</groupId>
+        <artifactId>gxmBuild-maven-plugin</artifactId>
+        <version>1.0-SNAPSHOT</version>
+        <configuration>
+          <repository>https://github.com/rharold77/</repository>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
 </project>
